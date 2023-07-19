@@ -1,0 +1,8 @@
+C:\Users\user\Documents\training\Day-1\DelegatePrac\DelegatePrac\bin\Debug\DelegatePrac.exe.config
+C:\Users\user\Documents\training\Day-1\DelegatePrac\DelegatePrac\bin\Debug\DelegatePrac.exe
+C:\Users\user\Documents\training\Day-1\DelegatePrac\DelegatePrac\bin\Debug\DelegatePrac.pdb
+C:\Users\user\Documents\training\Day-1\DelegatePrac\DelegatePrac\obj\Debug\DelegatePrac.csproj.AssemblyReference.cache
+C:\Users\user\Documents\training\Day-1\DelegatePrac\DelegatePrac\obj\Debug\DelegatePrac.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\training\Day-1\DelegatePrac\DelegatePrac\obj\Debug\DelegatePrac.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\training\Day-1\DelegatePrac\DelegatePrac\obj\Debug\DelegatePrac.exe
+C:\Users\user\Documents\training\Day-1\DelegatePrac\DelegatePrac\obj\Debug\DelegatePrac.pdb
